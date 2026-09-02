@@ -6,20 +6,20 @@
 # ------------------------------------------------------------------
 
 first_author:
-  - title: "An Example First-Author Paper Title Goes Here"
-    venue: "Journal or Conference Name"
+  - title: "Multichromatic porous silicon RGB rugate filters for use in smartphone biosensing”
+    venue: "Applied Optics 65, 1566-1572"
     year: 2026
-    link: "#"
+    link: "https://doi.org/10.1364/AO.584283"
   # - title: "Another First-Author Paper"
   #   venue: "Venue Name"
   #   year: 2025
   #   link: "https://doi.org/xxxx"
 
 conference:
-  - title: "An Example Conference Paper / Poster Title"
-    venue: "Conference Name"
+  - title: "Multichromatic illumination for smartphone biosensing using porous silicon rugate filters"
+    venue: "Frontiers in Biological Detection: From Nanosensors to Systems XVIII- SPIE Photonics West, San Francisco, CA"
     year: 2026
-    link: "#"
+    link: "http://dx.doi.org/10.1117/12.3079327"
   # - title: "Another Conference Paper"
   #   venue: "Conference Name"
   #   year: 2025
