@@ -1,0 +1,26 @@
+# ------------------------------------------------------------------
+# Your publications.
+# Add or remove entries under each list — index.html loops over these
+# automatically, so you never need to touch the HTML to update papers.
+# Leave "link" as "#" if you don't have a URL yet.
+# ------------------------------------------------------------------
+
+first_author:
+  - title: "An Example First-Author Paper Title Goes Here"
+    venue: "Journal or Conference Name"
+    year: 2026
+    link: "#"
+  # - title: "Another First-Author Paper"
+  #   venue: "Venue Name"
+  #   year: 2025
+  #   link: "https://doi.org/xxxx"
+
+conference:
+  - title: "An Example Conference Paper / Poster Title"
+    venue: "Conference Name"
+    year: 2026
+    link: "#"
+  # - title: "Another Conference Paper"
+  #   venue: "Conference Name"
+  #   year: 2025
+  #   link: "https://example.com"
