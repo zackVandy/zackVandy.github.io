@@ -6,7 +6,7 @@
 # ------------------------------------------------------------------
 
 first_author:
-  - title: "Multichromatic porous silicon RGB rugate filters for use in smartphone biosensing”
+    title: "Multichromatic porous silicon RGB rugate filters for use in smartphone biosensing”
     venue: "Applied Optics 65, 1566-1572"
     year: 2026
     link: "https://doi.org/10.1364/AO.584283"
@@ -16,7 +16,7 @@ first_author:
   #   link: "https://doi.org/xxxx"
 
 conference:
-  - title: "Multichromatic illumination for smartphone biosensing using porous silicon rugate filters"
+    title: "Multichromatic illumination for smartphone biosensing using porous silicon rugate filters"
     venue: "Frontiers in Biological Detection: From Nanosensors to Systems XVIII- SPIE Photonics West, San Francisco, CA"
     year: 2026
     link: "http://dx.doi.org/10.1117/12.3079327"
